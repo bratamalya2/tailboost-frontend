@@ -1,0 +1,11 @@
+.user-data-info {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+    border: 1px solid gray;
+    padding: 5px;
+    cursor: pointer;
+}
