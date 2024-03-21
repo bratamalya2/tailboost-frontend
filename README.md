@@ -9,6 +9,20 @@
     REACT_APP_BACKEND_URL = https://tailboost-backend.onrender.com
    
     REACT_APP_JOKES_API_URL = https://icanhazdadjoke.com
+
+    REACT_APP_API_KEY = AIzaSyAijvJMYAZ7FmddCkduU78QuQCjNjbL_2c
+
+    REACT_APP_AUTH_DOMAIN = tailboost-frontend.firebaseapp.com
+
+    REACT_APP_PROJECT_ID = tailboost-frontend
+
+    REACT_APP_STORAGE_BUCKET = tailboost-frontend.appspot.com
+
+    REACT_APP_MESSAGING_SENDER_ID = 681338879807
+
+    REACT_APP_APP_ID = 1:681338879807:web:c26af3195dc7d1ef021d8a
+
+    
 7. Run the app by running the following command
     npm run start
 8. Go to http://localhost:3000 in your browser.
