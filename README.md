@@ -1,3 +1,18 @@
+# Setup Instructions
+
+1. Clone the repository
+2. Go to the project root directory (created after cloning) inside a terminal or command prompt window.
+3. Run npm install
+4. Create a .env file within the project root directory
+5. Add the following lines to that file:
+
+    REACT_APP_BACKEND_URL = https://tailboost-backend.onrender.com
+   
+    REACT_APP_JOKES_API_URL = https://icanhazdadjoke.com
+7. Run the app by running the following command
+    npm run start
+8. Go to http://localhost:3000 in your browser.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
